@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+openpyxl
+bs4
+requests
+scikit-learn
+googletrans==3.1.0a0 
+nltk
+joblib
